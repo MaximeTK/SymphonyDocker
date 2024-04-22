@@ -1,0 +1,2 @@
+php-cli.x86_64                                       8.1.18-1.fc36                       @updates              
+php-common.x86_64                                    8.1.18-1.fc36                       @updates              
